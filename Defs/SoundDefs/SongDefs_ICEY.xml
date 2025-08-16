@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- Ambient Tracks --> 
+<Defs>
+
+	<SongDef>
+			<clipPath>ICEY/Icey</clipPath>
+			<volume>0.7</volume>
+	</SongDef>
+	<SongDef>
+			<clipPath>ICEY/Lost_Woods</clipPath>
+			<volume>0.7</volume>
+	</SongDef>
+	<SongDef>
+			<clipPath>ICEY/Moonlight_Solitary_Bridge</clipPath>
+			<volume>0.7</volume>
+	</SongDef>
+	<SongDef>
+			<clipPath>ICEY/Laboratory_Of_Metro</clipPath>
+			<volume>0.7</volume>
+			<tense>true</tense>
+	</SongDef>
+	<SongDef>
+			<clipPath>ICEY/The_Death_Of_Judas</clipPath>
+			<volume>0.7</volume>
+			<tense>true</tense>
+	</SongDef>
+	<SongDef>
+			<clipPath>ICEY/Ultimopolis_Metro_Stop</clipPath>
+			<volume>0.7</volume>
+			<tense>true</tense>
+	</SongDef>
+	<SongDef>
+			<clipPath>ICEY/Darkest_Dungeon</clipPath>
+			<volume>0.7</volume>
+	</SongDef>
+	<SongDef>
+			<clipPath>ICEY/Marionette_Theater</clipPath>
+			<volume>0.7</volume>
+	</SongDef>
+	<SongDef>
+			<clipPath>ICEY/Dance_With_Jack</clipPath>
+			<volume>0.7</volume>
+			<tense>true</tense>		
+	</SongDef>
+	<SongDef>
+			<clipPath>ICEY/Clock_Tower</clipPath>
+			<volume>0.7</volume>
+			<tense>true</tense>			
+	</SongDef>
+	<SongDef>
+			<clipPath>ICEY/Tower_Bridge</clipPath>
+			<volume>0.7</volume>
+	</SongDef>
+	<SongDef>
+			<clipPath>ICEY/Reunited_With_You</clipPath>
+			<volume>0.7</volume>
+	</SongDef>
+	
+</Defs>

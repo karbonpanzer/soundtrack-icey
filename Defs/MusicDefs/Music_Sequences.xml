@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <!-- Long term, tense music -->
+  <MusicSequenceDef>
+    <defName>HorrorRelax</defName>
+    <loopDelayRange>1~2</loopDelayRange>
+    <minTimeToPlay>30</minTimeToPlay>
+    <loop>true</loop>
+    <songs>
+	  <li>Icey</li> 
+	  <li>Lost_Woods</li> 
+	  <li>Darkest_Dungeon</li> 
+	  <li>Marionette_Theater</li> 
+	  <li>Moonlight_Solitary_Bridge</li> 
+	  <li>Reunited_With_You</li> 
+	  <li>Tower_Bridge</li>   
+    </songs>
+  </MusicSequenceDef>
+  
+  <!-- Short term, tense music -->
+  <MusicSequenceDef>
+    <defName>HorrorTension</defName>
+    <loopDelayRange>1~2</loopDelayRange>
+    <fadeoutLastSongDuration>5</fadeoutLastSongDuration>
+    <minTimeToPlay>30</minTimeToPlay>
+    <loop>true</loop>
+    <songs>
+	  <li>Laboratory_Of_Metro</li>	
+	  <li>The_Death_Of_Judas</li>	
+	  <li>Ultimopolis_Metro_Stop</li>
+		<li>Dance_With_Jack</li>	
+		<li>Clock_Tower</li>		  
+    </songs>
+  </MusicSequenceDef>	
+</Defs>
